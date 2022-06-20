@@ -1,0 +1,21 @@
+.blog-wrap{
+    max-width: 700px;
+    margin: 0 auto;
+}
+.blog-wrap header{
+    text-align: center;
+}
+.blog-date{
+    font-size: 1rem;
+    color: rgb(207, 179, 146);
+    font-weight: 500;
+}
+.blog-desc{
+    padding: 1rem;
+    margin-top: 1.5rem;
+}
+@media(max-width:780px){
+.img-back{
+    max-width: 500px;
+}
+}
