@@ -1,6 +1,6 @@
 # My Static Blogging Web Application
 
-My Static Blogging Web Application Screenshot
+![Blogging Webpage Screenshot](Screenshot1.png)
 
 # Description
 
