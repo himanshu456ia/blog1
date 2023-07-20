@@ -13,7 +13,7 @@ My Static Blogging Web Application is a simple web-based blogging platform built
 1. Prerequisites: Make sure you have Node.js and npm (Node Package Manager) installed on your system.
 
 2. Clone the Repository: Clone this repository to your local machine
-   git clone [https://github.com/your-username/my-static-blog.git]  (https://github.com/himanshu456ia/blog1.git)
+   git clone https://github.com/your-username/my-static-blog.git  (https://github.com/himanshu456ia/blog1.git)
    
 3.Install Dependencies: Navigate to the project directory and install the required packages:
   cd blog1
