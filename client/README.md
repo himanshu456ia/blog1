@@ -1,4 +1,4 @@
-# My Static Blogging Web Application
+# My Blogging Web Application
 
 ![Blogging Webpage Screenshot](Screenshot1.png)
 
